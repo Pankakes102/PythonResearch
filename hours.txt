@@ -1,0 +1,67 @@
+1 to 6 minutes = .1
+7 to 12 minutes = .2
+13 to 18 minutes = .3
+19 to 24 minutes = .4
+25 to 30 minutes = .5
+31 to 36 minutes = .6
+37 to 42 minutes = .7
+43 to 48 minutes = .8
+49 to 54 minutes = .9
+
+hours:
+1/29
+	3:23
+		create database and insert data
+	6:18
+	3
+
+2/1
+	7:46
+		insert data, create java project in netbeans
+		begin interfasce for filters
+	9:45
+	2
+
+2/2
+	9:37
+		insert data, create java project in netbeans
+		begin interfasce for filters
+	12:04
+	2.5
+
+2/5
+	10:30
+		create userface for filters and java
+		database connectivity
+	12:05
+	1.6
+
+2/6
+	9:43
+		create userface for filters and java 
+		database connectivity
+	1:30
+	4.8
+	3:00
+		create userface for filters and java 
+		database connectivity
+	5:12
+	2.2
+	7
+2/7
+	5:35
+		create userface for filters and java
+		database connectivity
+	10:29
+	4.9
+-------------------------------------
+2/12
+	12:35
+		interface template without icons for usability
+	2:55
+
+2/13
+	1:03
+		js back interaction
+	5:11
+
